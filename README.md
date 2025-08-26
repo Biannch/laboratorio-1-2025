@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Chiaramello Bianca 195259 - cor...@estudiante1.com
+- Calvo Mateo 182857 - cor...@estudiante2.com
 
 # Contexto / Escenario
 
